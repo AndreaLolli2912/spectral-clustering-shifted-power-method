@@ -1,0 +1,7 @@
+HOT TO VISUALIZE RESULST MENTIONED IN THE PAPER
+
+1) Install dependencies
+pip install -r requirements.txt
+
+2) Run __main__.ipynb notebook
+It will show all the plots and results.
